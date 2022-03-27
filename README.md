@@ -11,4 +11,6 @@ Run as:
 
 Image must have a white background and no '.' in the name prior to the extension
 
-Example before/after image included.
+Example before/after image
+![wizard_hat](wizard_hat.png)
+![wizard_hat](wizard_hat_converted.png)
